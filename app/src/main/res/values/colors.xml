@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="Home1">#000000</color>
+    <color name="Products1">#000000</color>
+    <color name="SalesReport1">#000000</color>
+    <color name="Inventory1">#000000</color>
+    <color name="Settings1">#000000</color>
+    <color name="Logout1">#000000</color>
+
+    <color name="Home2">#E5DBCF</color>
+    <color name="Products2">#E5DBCF</color>
+    <color name="SalesReport2">#E5DBCF</color>
+    <color name="Inventory2">#E5DBCF</color>
+    <color name="Settings2">#E5DBCF</color>
+    <color name="Logout2">#E5DBCF</color>
+
+</resources>
